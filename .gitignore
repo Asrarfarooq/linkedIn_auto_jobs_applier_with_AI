@@ -12,4 +12,9 @@ generated_cv*
 chrome_profile
 answers.json
 data_folder/secrets.yaml
+secrets.yaml
+data_folder_example/
+
+
+
 
